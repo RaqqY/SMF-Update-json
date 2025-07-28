@@ -1,5 +1,5 @@
 {
   "Version": "1.0.0",
-  "DownloadUrl": "SMFinstaller/Debug/SMFinstaller.msi",
+  "DownloadUrl": "https://github.com/RaqqY/SMF-Installer/blob/main/SMFinstaller/Debug/setup.exe",
   "Changelog": "SMF Version 1.0.0"
 }
